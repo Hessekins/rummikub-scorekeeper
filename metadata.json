@@ -1,0 +1,5 @@
+{
+  "name": "RummyScore Master",
+  "description": "A smart, aesthetic Rummikub scoreboard with automated scoring calculations and an AI rules referee.",
+  "requestFramePermissions": []
+}
